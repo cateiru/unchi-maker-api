@@ -15,7 +15,7 @@ def main():
     tokenize = Analysis()
     formated_text = ''.join(tokenize.change_noun(text, 'うんち'))
 
-  return {"formated_text": formated_text}
+  return {"formatted_text": formated_text}
 
 
 if __name__ == "__main__":
