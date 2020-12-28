@@ -12,6 +12,7 @@ autopep8 = "*"
 [packages]
 flask = "*"
 unchi = {git = "https://github.com/yuto51942/unchi-maker.git",ref = "1.0.2"}
+flask-cors = "*"
 
 [requires]
 python_version = "3.8"
